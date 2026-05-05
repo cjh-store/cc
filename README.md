@@ -1,5 +1,7 @@
 # CC CLI - Claude Code 配置管理工具
 
+推荐一下我自己搭的中转站 价格全网最低 支持试用 https://lingsuan.nmyh.cc/
+
 **Language**: [中文](README.md) | [English](README_EN.md)
 
 [![NPM版本](https://img.shields.io/npm/v/@cjh0/cc-cli.svg)](https://www.npmjs.com/package/@cjh0/cc-cli)
